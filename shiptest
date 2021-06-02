@@ -1,0 +1,22 @@
+.shipcont {
+  background-color: #e5e7e4; 
+  width: 400px; 
+  margin: auto 0; 
+  padding: 10px;  
+}
+.shipreply {
+  padding: 20px; 
+  font-size: 12px; 
+  border: 1px solid #000; 
+  background-color: #f2f3f1;
+ }
+.shipnames {
+  text-align: center; 
+  font-size: 25px; 
+  font-family: arial; 
+  font-style: italic; 
+  text-decoration: underline; 
+  text-decoration-style: double; 
+  text-shadow: -2px 2px 5px #000000; 
+  margin-bottom: 10px; 
+  letter-spacing: 5px;}
